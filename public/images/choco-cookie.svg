@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 180" role="img" aria-label="초코쿠키">
+  <rect width="220" height="180" fill="#fbf3e3"/>
+  <circle cx="110" cy="92" r="58" fill="#b97945" stroke="#245b3d" stroke-width="8"/>
+  <circle cx="83" cy="72" r="9" fill="#4b2a18"/>
+  <circle cx="122" cy="62" r="8" fill="#4b2a18"/>
+  <circle cx="139" cy="99" r="10" fill="#4b2a18"/>
+  <circle cx="95" cy="115" r="8" fill="#4b2a18"/>
+  <circle cx="116" cy="92" r="7" fill="#4b2a18"/>
+  <rect x="70" y="142" width="80" height="12" rx="6" fill="#d3b68d"/>
+</svg>

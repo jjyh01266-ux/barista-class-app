@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="260" viewBox="0 0 320 260" role="img" aria-label="아메리카노">
+  <rect width="320" height="260" fill="#fff8ea"/>
+  <ellipse cx="160" cy="86" rx="88" ry="26" fill="#f7f0df" stroke="#244f39" stroke-width="10"/>
+  <path d="M76 86h168l-22 112c-4 20-20 34-40 34h-44c-20 0-36-14-40-34L76 86z" fill="#fbfbf7" stroke="#244f39" stroke-width="10"/>
+  <ellipse cx="160" cy="90" rx="66" ry="15" fill="#3c2416"/>
+  <path d="M244 112h30c18 0 28 13 24 30-4 22-23 36-53 34" fill="none" stroke="#244f39" stroke-width="12" stroke-linecap="round"/>
+  <rect x="88" y="124" width="144" height="40" rx="8" fill="#c99145"/>
+  <text x="160" y="153" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#fff">COFFEE</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="260" viewBox="0 0 320 260" role="img" aria-label="레몬에이드">
+  <rect width="320" height="260" fill="#fff8ea"/>
+  <path d="M105 70h110l-10 140c-1 18-16 32-34 32h-22c-18 0-33-14-34-32L105 70z" fill="#ffe16a" stroke="#244f39" stroke-width="10"/>
+  <ellipse cx="160" cy="70" rx="56" ry="20" fill="#fff6aa" stroke="#244f39" stroke-width="10"/>
+  <circle cx="139" cy="128" r="12" fill="#fff9c8"/>
+  <circle cx="177" cy="155" r="10" fill="#fff9c8"/>
+  <path d="M213 76l35-42" stroke="#244f39" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="226" cy="66" r="30" fill="#ffe45c" stroke="#244f39" stroke-width="8"/>
+  <path d="M205 66h42M226 45v42" stroke="#fff8c0" stroke-width="5"/>
+</svg>
